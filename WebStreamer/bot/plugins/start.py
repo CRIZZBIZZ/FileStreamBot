@@ -29,10 +29,10 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : File To Link Generator</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/MoviesBizzChat'>3.0.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/GreyMatter658/FileStreamBot/tree/main'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>AvishkarPatil</a></b>\n
-<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/GreyMatter_bots'>[ 26-ᴊan-22 ] 03:55 PM</a></b>"""
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://t.me/+_nlJKgskhH8yODc1'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
+<b>🔸GitHub : <a href='https://t.me/+_nlJKgskhH8yODc1'>Click Here</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/moviesbizz_yt'>𝙼𝚘𝚟𝚒𝚎𝚜𝙱𝚒𝚣𝚣 𝚈𝚃</a></b>\n
+<b>🔸𝙼𝚘𝚟𝚒𝚎 𝙶𝚛𝚘𝚞𝚙 : <a href='https://telegram.me/moviesbizzChat'>𝙼𝙾𝚅𝙸𝙴𝚂𝙱𝙸𝚉𝚉 𝙲𝙷𝙰𝚃</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
@@ -131,7 +131,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>Sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</i> <b><a href='http://t.me/Moksh_b658'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>",
+                    text="<i>Sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</i> <b><a href='http://t.me/moviesbizz_yt'>[ 𝙼𝚘𝚟𝚒𝚎𝚜𝙱𝚒𝚣𝚣 𝚈𝚃 ]</a></b>",
                     parse_mode="HTML",
                     disable_web_page_preview=True)
                 return
@@ -150,7 +150,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="**Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Qᴜɪᴄᴋʟʏ ᴄᴏɴᴛᴀᴄᴛ** @Moksh_b658",
+                        text="**Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Qᴜɪᴄᴋʟʏ ᴄᴏɴᴛᴀᴄᴛ** @MoviesBizz_YT",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -172,7 +172,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [Moksh Bhardwaj](https://t.me/Moksh_b658).",
+                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [𝙼𝚘𝚟𝚒𝚎𝚜𝙱𝚒𝚣𝚣 𝚈𝚃](https://t.me/moviesbizz_yt).",
                     parse_mode="markdown",
                     disable_web_page_preview=True)
                 return
@@ -188,12 +188,12 @@ async def start(b, m):
                                      file_name)
 
         msg_text ="""
-<i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <i>{}</i>\n
-<b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
-<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
+<b>🔗 ㄚᴏᴜʀ ᗪᴏᴡɴʟᴏᴀᴅ ㄥɪɴᴋ Ꮆᴇɴᴇʀᴀᴛᴇᴅ 😜</b>\n
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
+<b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <b>{}</b>\n
+<b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <b>{}</b>\n
 <b>🚸 Nᴏᴛᴇ : Lɪɴᴋ ᴇxᴘɪʀᴇᴅ ɪɴ 24 ʜᴏᴜʀꜱ</b>\n
-<i>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</i> <b>@GreyMatter_bots</b>
+<b>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</b> <b>@MoviEsBizz_YT</b>
 """
 
         await m.reply_text(
@@ -247,7 +247,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [Moksh Bhardwaj](https://t.me/Moksh_b658).",
+                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [𝙼𝚘𝚟𝚒𝚎𝚜𝙱𝚒𝚣𝚣 𝚈𝚃](https://t.me/moviesbizz_yt).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
