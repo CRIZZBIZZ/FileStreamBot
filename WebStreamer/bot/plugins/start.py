@@ -27,8 +27,8 @@ HELP_TEXT = """
 <i><b>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</b></i> <b>: <a href='https://t.me/moviesbizz_yt'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/GreyMatter_bots'>3.0.1</a></b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : File To Link Generator</b>\n
+<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/MoviesBizzChat'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/GreyMatter658/FileStreamBot/tree/main'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>AvishkarPatil</a></b>\n
