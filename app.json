@@ -3,7 +3,6 @@
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @GreyMatter_bots",
   "keywords": [
       "telegram",
-      "stream",
       "web",
       "pyrogram",
       "aiohttp",
